@@ -1,0 +1,135 @@
+Remove Pin from Net: Failed to remove Pin
+Change Component Comment : Designator= Old Comment= New Comment=0R
+Change Component Comment : Designator= Old Comment= New Comment=0R
+Change Component Comment : Designator= Old Comment= New Comment=1K
+Change Component Comment : Designator= Old Comment= New Comment=4.7uF
+Change Component Comment : Designator= Old Comment= New Comment=5.1K
+Change Component Comment : Designator= Old Comment= New Comment=5.1K
+Change Component Comment : Designator= Old Comment= New Comment=5.1K
+Change Component Comment : Designator= Old Comment= New Comment=10K
+Change Component Comment : Designator= Old Comment= New Comment=10K
+Change Component Comment : Designator= Old Comment= New Comment=10K
+Change Component Comment : Designator= Old Comment= New Comment=10K
+Change Component Comment : Designator= Old Comment= New Comment=10uF
+Change Component Comment : Designator= Old Comment= New Comment=10uF
+Change Component Comment : Designator= Old Comment= New Comment=22.1K
+Change Component Comment : Designator= Old Comment= New Comment=22R
+Change Component Comment : Designator= Old Comment= New Comment=22R
+Change Component Comment : Designator= Old Comment= New Comment=22uF
+Change Component Comment : Designator= Old Comment= New Comment=47.5K
+Change Component Comment : Designator= Old Comment= New Comment=100nF
+Change Component Comment : Designator= Old Comment= New Comment=100nF
+Change Component Comment : Designator= Old Comment= New Comment=100nF
+Change Component Comment : Designator= Old Comment= New Comment=100nF
+Change Component Comment : Designator= Old Comment= New Comment=100nF
+Change Component Comment : Designator= Old Comment= New Comment=100nF
+Change Component Comment : Designator= Old Comment= New Comment=100nF
+Change Component Comment : Designator= Old Comment= New Comment=560R
+Change Component Comment : Designator= Old Comment= New Comment=AMS1117-3.3_C347222
+Change Component Comment : Designator= Old Comment= New Comment=CP2102-GMR-QFN28
+Change Component Comment : Designator= Old Comment= New Comment=ESP32-WROOM-32E(4MB)
+Change Component Comment : Designator= Old Comment= New Comment=FB
+Change Component Comment : Designator= Old Comment= New Comment=HX TYPE-C 16PIN
+Change Component Comment : Designator= Old Comment= New Comment=JP 1x3 2.54
+Change Component Comment : Designator= Old Comment= New Comment=Jump 1x17 2.54
+Change Component Comment : Designator= Old Comment= New Comment=Jump 1x17 2.54
+Change Component Comment : Designator= Old Comment= New Comment=LED 0805
+Change Component Comment : Designator= Old Comment= New Comment=LED 0805
+Change Component Comment : Designator= Old Comment= New Comment=SS8050-G
+Change Component Comment : Designator= Old Comment= New Comment=SS8050-G
+Change Component Comment : Designator= Old Comment= New Comment=Sw 2 chan 3X6X2.5MM
+Change Component Comment : Designator= Old Comment= New Comment=Sw 2 chan 3X6X2.5MM
+Change Component Comment : Designator= Old Comment= New Comment=USBLC6-2SC6
+Change Component Designator: OldDesignator= NewDesignator=C1
+Change Component Designator: OldDesignator= NewDesignator=C2
+Change Component Designator: OldDesignator= NewDesignator=C3
+Change Component Designator: OldDesignator= NewDesignator=C4
+Change Component Designator: OldDesignator= NewDesignator=C5
+Change Component Designator: OldDesignator= NewDesignator=C6
+Change Component Designator: OldDesignator= NewDesignator=C7
+Change Component Designator: OldDesignator= NewDesignator=C8
+Change Component Designator: OldDesignator= NewDesignator=C9
+Change Component Designator: OldDesignator= NewDesignator=C10
+Change Component Designator: OldDesignator= NewDesignator=C11
+Change Component Designator: OldDesignator= NewDesignator=D1
+Change Component Designator: OldDesignator= NewDesignator=JP1
+Change Component Designator: OldDesignator= NewDesignator=L1
+Change Component Designator: OldDesignator= NewDesignator=L2
+Change Component Designator: OldDesignator= NewDesignator=L3
+Change Component Designator: OldDesignator= NewDesignator=Q1
+Change Component Designator: OldDesignator= NewDesignator=Q2
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=R2
+Change Component Designator: OldDesignator= NewDesignator=R3
+Change Component Designator: OldDesignator= NewDesignator=R4
+Change Component Designator: OldDesignator= NewDesignator=R5
+Change Component Designator: OldDesignator= NewDesignator=R6
+Change Component Designator: OldDesignator= NewDesignator=R7
+Change Component Designator: OldDesignator= NewDesignator=R8
+Change Component Designator: OldDesignator= NewDesignator=R9
+Change Component Designator: OldDesignator= NewDesignator=R10
+Change Component Designator: OldDesignator= NewDesignator=R11
+Change Component Designator: OldDesignator= NewDesignator=R12
+Change Component Designator: OldDesignator= NewDesignator=R13
+Change Component Designator: OldDesignator= NewDesignator=R14
+Change Component Designator: OldDesignator= NewDesignator=R15
+Change Component Designator: OldDesignator= NewDesignator=U1
+Change Component Designator: OldDesignator= NewDesignator=U2
+Change Component Designator: OldDesignator= NewDesignator=U3
+Change Component Designator: OldDesignator= NewDesignator=U4
+Change Component Designator: OldDesignator= NewDesignator=U5
+Change Component Designator: OldDesignator= NewDesignator=U6
+Change Component Designator: OldDesignator= NewDesignator=U7
+Change Component Designator: OldDesignator= NewDesignator=U8
+Added Component: Designator=C?(SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=F?(R1206)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetL3_2 Pin=C?-2
+Added Pin To Net: NetName=5V_VBUS Pin=F?-2
+Change Net Name : Old Net Name=NetL3_2 New Net Name=NetC?_2
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=L3-1
+Added Net: Name=NetF?_1
+Added Member To Class: ClassName=My_esp Member=Component C1 10uF
+Added Member To Class: ClassName=My_esp Member=Component C2 10uF
+Added Member To Class: ClassName=My_esp Member=Component C3 4.7uF
+Added Member To Class: ClassName=My_esp Member=Component C4 100nF
+Added Member To Class: ClassName=My_esp Member=Component C5 100nF
+Added Member To Class: ClassName=My_esp Member=Component C6 100nF
+Added Member To Class: ClassName=My_esp Member=Component C7 100nF
+Added Member To Class: ClassName=My_esp Member=Component C8 22uF
+Added Member To Class: ClassName=My_esp Member=Component C9 100nF
+Added Member To Class: ClassName=My_esp Member=Component C10 100nF
+Added Member To Class: ClassName=My_esp Member=Component C11 100nF
+Added Member To Class: ClassName=My_esp Member=Component C? 100nF
+Added Member To Class: ClassName=My_esp Member=Component D1 USBLC6-2SC6
+Added Member To Class: ClassName=My_esp Member=Component F? 1.5A 6V
+Added Member To Class: ClassName=My_esp Member=Component L1 LED 0805
+Added Member To Class: ClassName=My_esp Member=Component L2 LED 0805
+Added Member To Class: ClassName=My_esp Member=Component L3 FB
+Added Member To Class: ClassName=My_esp Member=Component Q1 SS8050-G
+Added Member To Class: ClassName=My_esp Member=Component Q2 SS8050-G
+Added Member To Class: ClassName=My_esp Member=Component R1 5.1K
+Added Member To Class: ClassName=My_esp Member=Component R2 560R
+Added Member To Class: ClassName=My_esp Member=Component R3 0R
+Added Member To Class: ClassName=My_esp Member=Component R4 0R
+Added Member To Class: ClassName=My_esp Member=Component R5 10K
+Added Member To Class: ClassName=My_esp Member=Component R6 5.1K
+Added Member To Class: ClassName=My_esp Member=Component R7 5.1K
+Added Member To Class: ClassName=My_esp Member=Component R8 10K
+Added Member To Class: ClassName=My_esp Member=Component R9 22.1K
+Added Member To Class: ClassName=My_esp Member=Component R10 1K
+Added Member To Class: ClassName=My_esp Member=Component R11 10K
+Added Member To Class: ClassName=My_esp Member=Component R12 47.5K
+Added Member To Class: ClassName=My_esp Member=Component R13 10K
+Added Member To Class: ClassName=My_esp Member=Component R14 22R
+Added Member To Class: ClassName=My_esp Member=Component R15 22R
+Added Member To Class: ClassName=My_esp Member=Component U1 AMS1117-3.3_C347222
+Added Member To Class: ClassName=My_esp Member=Component U2 HX TYPE-C 16PIN
+Added Member To Class: ClassName=My_esp Member=Component U3 CP2102-GMR-QFN28
+Added Member To Class: ClassName=My_esp Member=Component U4 Jump 1x17 2.54
+Added Member To Class: ClassName=My_esp Member=Component U5 Jump 1x17 2.54
+Added Member To Class: ClassName=My_esp Member=Component U6 Sw 2 chan 3X6X2.5MM
+Added Member To Class: ClassName=My_esp Member=Component U7 Sw 2 chan 3X6X2.5MM
+Added Member To Class: ClassName=My_esp Member=Component U8 ESP32-WROOM-32E(4MB)

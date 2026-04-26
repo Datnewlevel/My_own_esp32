@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=My_esp Member=C?
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Added Member To Class: ClassName=My_esp Member=Component C8 22uF

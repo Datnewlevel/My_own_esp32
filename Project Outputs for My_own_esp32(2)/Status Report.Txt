@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [My_own_esp32(2).PrjPcb]
+   Generated File[My_esp-RoundHoles-Plated.TXT]
+   Generated File[My_esp-RoundHoles-NonPlated.TXT]
+   Generated File[My_esp-SlotHoles-Plated.TXT]
+   Generated File[My_esp.LDP]
+   Generated File[My_esp.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 1:00:53 PM On 2/11/2026

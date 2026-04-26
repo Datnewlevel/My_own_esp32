@@ -1,0 +1,16 @@
+vrefdes,vpin,refdes,pin
+VCOMP0,0,U1,2
+VCOMP0,1,U1,1
+VCOMP1,0,U8,2
+VCOMP1,1,U8,1
+VCOMP1,2,U8,15
+VCOMP1,3,U8,38
+VCOMP1,4,U8,pdna_pin_39_1
+VCOMP1,5,U8,pdna_pin_39_2
+VCOMP1,6,U8,pdna_pin_39_3
+VCOMP1,7,U8,pdna_pin_39_4
+VCOMP1,8,U8,pdna_pin_39_5
+VCOMP1,9,U8,pdna_pin_39_6
+VCOMP1,10,U8,pdna_pin_39_7
+VCOMP1,11,U8,pdna_pin_39_8
+VCOMP1,12,U8,pdna_pin_39_9

@@ -1,0 +1,6 @@
+Remove Pin=U3-4 From Net=USB_D+
+Remove Pin=U3-5 From Net=USB_D-
+Remove Pin=U3-24 From Net=RTS
+Remove Pin=U3-25 From Net=RXD
+Remove Pin=U3-26 From Net=TXD
+Remove Pin=U3-28 From Net=DTR

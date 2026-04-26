@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=F? NewDesignator=F1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetF?_1 New Net Name=NetF1_1
+Added Member To Class: ClassName=My_esp Member=Component C8 22uF
+Added Member To Class: ClassName=My_esp Member=Component U1 AMS1117-3.3_C347222
