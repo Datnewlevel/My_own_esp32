@@ -78,7 +78,6 @@ This is a custom ESP32 development board designed entirely from scratch using Al
 ## 6. Tools Used
 
 - **Altium Designer** — Schematic capture, PCB layout, and Gerber generation
-- **PDN Analyzer** (built-in Altium tool) — Power delivery network simulation and analysis
 
 ---
 
